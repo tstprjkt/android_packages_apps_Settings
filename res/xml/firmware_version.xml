@@ -76,6 +76,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.LineageVendorSecurityPatchLevelPreferenceController"/>
 
+     <!-- Dot maintainer -->
+    <Preference
+        android:key="maintainer"
+        android:title="@string/maintainer"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.CrMaintainerPreferenceController"/>
+  
     <!-- Mainline module version -->
     <!--
     <Preference
