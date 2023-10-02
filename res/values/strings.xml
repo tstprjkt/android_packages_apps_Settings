@@ -4556,6 +4556,11 @@
     <!-- Manage applications, individual application info screen, summary for the option which will trigger instant app info in it's installer [CHAR_LIMIT=50] -->
     <string name="instant_app_details_summary">More info on <xliff:g id="app_store">%1$s</xliff:g></string>
 
+    <!-- Maintainer -->
+    <string name="maintainer">Device Maintainer</string>
+    <string name="maintainer_title">Device Maintainer</string>
+    <string name="maintainer_summary">scaledzdn.</string>
+     
     <!-- App Ops Settings --> <skip />
     <!-- [CHAR LIMIT=NONE] Time label for an operation that is currently running. -->
     <string name="app_ops_running">Running</string>
